@@ -1,0 +1,46 @@
+{
+   "lang": "en", 
+   "splash": {
+         "haveAnAccountAlready": "Have an account already? Login",
+         "welcomeTo": "Welcome to",
+         "company": "Company",
+         "continueWithFacebook": "Continue with Facebook",
+         "createAccount": "Create Account",
+         "rules": "By tapping Continue, Create account, I agree to Company's
+         Terms of Service, Payments Terms of Service, Privacy Policy,
+         and Non-discrimination Policy."
+   },
+   "step1": {
+      "whatsYourName": "What's your name?",
+      "firtName": "First Name",
+      "lastName": "Last Name"
+   },
+   "step2": {
+      "whatsYourEmail": "What's your email?",
+      "yournameEmail": "yourname@company.com"
+   },
+   "step3": {
+      "createPassword": "Create a password",
+      "handlingPassword": "Your password must include at least one
+      symbol and be 8 or more characters long.",
+      "password": "Password",
+      "rePassword": "Re-Type Password"
+   },
+   "step4": {
+      "turnOnNotifications": "Turn on notifications",
+      "notificationIntro": "Get the most out of Company by staying up to
+      date with what's happening.",
+      "allowWindows": "Allow Notifications",
+      "skipForNow": "Skip for now"
+   },
+   "login": {
+      "email": "Email",
+      "passwordLogin": "Password" 
+   },
+   "navigation": {
+      "home": "HOME",
+      "stories": "STORIES",
+      "notifications": "NOTIFICATIONS",
+      "search": "SEARCH"
+   }   
+}

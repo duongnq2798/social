@@ -1,0 +1,7 @@
+{
+  "name": "social_ktm",
+  "displayName": "social_ktm",
+  "packagerOpts": {
+    "config": "metro.config.js"
+  }
+}
